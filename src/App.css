@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.blank {
+  color: #61dafb;
+
+}
+.title{
+  color: white;
+}
